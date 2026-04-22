@@ -1,0 +1,83 @@
+Superman
+Batman
+Wonder Woman
+Spider-Man
+Iron Man
+Captain America
+Thor
+Hulk
+Black Widow
+Hawkeye
+Doctor Strange
+Black Panther
+Scarlet Witch
+Vision
+Ant-Man
+Wasp
+Captain Marvel
+Star-Lord
+Gamora
+Rocket Raccoon
+Groot
+Deadpool
+Wolverine
+Professor X
+Storm
+Flash
+Aquaman
+Green Lantern
+Shazam
+Supergirl
+Batgirl
+Nightwing
+Green Arrow
+Catwoman
+Neo
+Trinity
+Luke Skywalker
+Leia Organa
+Han Solo
+Obi-Wan Kenobi
+Yoda
+Anakin Skywalker
+Ahsoka Tano
+Rey
+The Mandalorian
+Harry Potter
+Hermione Granger
+Ron Weasley
+Albus Dumbledore
+Severus Snape
+Minerva McGonagall
+Gandalf
+Aragorn
+Legolas
+Frodo
+Samwise
+Eowyn
+Galadriel
+Geralt of Rivia
+Ciri
+Link
+Zelda
+Mario
+Sonic
+Master Chief
+Doom Slayer
+Kratos
+Aloy
+Rapunzel
+Elsa
+Anna
+Belle
+Ariel
+Mulan
+Jasmine
+Pocahontas
+Tiana
+Moana
+Snow White
+Cinderella
+Aurora
+Merida
+Raya
